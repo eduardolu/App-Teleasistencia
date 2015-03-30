@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tele-Asistencia</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Menu</string>
+    <string name="title_activity_llamada">Llamada</string>
+</resources>

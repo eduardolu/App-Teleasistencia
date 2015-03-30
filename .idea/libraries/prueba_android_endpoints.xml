@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="prueba-android-endpoints">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/prueba/build/libs/prueba-android-endpoints.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

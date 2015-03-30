@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-192af973a81e14a43ad4a901ec33dc8830c8f1df.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-d06e85671b85b9ed81521d1b56a04f326dda295c.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.19.0-4a27b1a6cf533e059a6fb6e974024b09f95160e7.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-2e03c021b5cb023048f04f9d23517f47cd4987d7.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-6692da5bfbc4d745f5c22e7b7424f79bf9e158cb.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-4d2bdc53cf57472ba0279d152a472194ef907583.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.19.0-574618388ef55f1be16ac4e5e9fbf0866ff60a80.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-d13f8fa354f84487f126218445da81143449b4e7.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.19.0-9e9ba25505f172d3b5e0f0d300126586906d0442.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/google-http-client-1.19.0-b6ddaa58c83aa59f7b13c90d328b650cf1fece40.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-37444207e3687199a44d91a3ccf0111a7e4df6dd.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-c395b9d594757c7ce06f8eff8a1b94d44d421fa2.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-0bdff7aa36ee9534a3cc133b6a7ba3376b0dbac7.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-9aff4ee9c539753d2141232466c8ef388cd1d5b5.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-d429360dad8017a4339a3f0fd952908cc5198e6a.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-0fec995451008be02f768e754137e1fd118d23cd.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-e1efb12d0e5e0ffe1e5df10d7d202442656c746a.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-cc881c7a3411fc39d525bff1a0d8aafd54ce00df.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-a83a261b94c00ef012616d2b9c3d1c8ec5399ab0.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-1fc7f2c5f717f20cb0f658e915d8853e1787991c.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-ab7158dcde4ad089eec78c395e57bc4f2fbfff87.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/prueba/build/libs/prueba-android-endpoints.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a907f924e8a2fb6c845956faca0c794896998bac">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/prueba-android-endpoints-a35dc4c6cd031b46c1bde61a48a32fde55e37a7b.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-1c3ba7d04d3516afab26105802437dde5e3a5c0b.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.19.0-250e96d2570f72c16968050591ad2ef56948665a.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-a8323ba3607c19cf386841d29d2796557b57cdd0.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-6915de3d6f817f669ebedfe338456a7e5d4cfe1e.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-c5ec491668e18baa7d92bb2e70d1e6ec96273206.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-222218ec5e06c49827f04fbdc2966ea7b8a98b1b.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-76c832b3462ef7d288b71aa9ce0ce84e6a59c1ca.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-61cff34e5c62bd3259466356eab6f5595f30c309.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/classes-b464d43db45865c267a0603f00d15fe1c7d8a9e4.jar" />
+    </item>
+    <item
+        jar="/Users/nataliagomez/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="/Users/nataliagomez/Downloads/Teleasistencia-App-master/app/build/intermediates/pre-dexed/debug/google-api-client-1.19.0-e1d957d208def3cf3f94b7bbc011ff25489a9fbd.jar" />
+    </item>
+
+</items>
